@@ -1,1 +1,4 @@
-
+1. https://leetcode.com/problems/pascals-triangle/
+2. https://leetcode.com/problems/remove-duplicates-from-sorted-array/
+3. https://leetcode.com/problems/merge-intervals/
+4. https://leetcode.com/problems/3sum/
